@@ -188,6 +188,7 @@ WheresMyPie/
 
 ## My Contribution
 This project was developed collaboratively by a five-member team.
+
 My primary responsibilities included:
 - Designed and refined the webpage layout and overall user interface.
 - Created and organized the project presentation materials.
