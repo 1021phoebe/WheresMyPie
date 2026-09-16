@@ -186,6 +186,16 @@ WheresMyPie/
 - Protected upload directories
 - Custom error handling
 
+## My Contribution
+This project was developed collaboratively by a five-member team.
+My primary responsibilities included:
+- Designed and refined the webpage layout and overall user interface.
+- Created and organized the project presentation materials.
+- Coordinated team progress and tracked development tasks throughout the project.
+- Assisted in assigning tasks based on project requirements and team progress.
+- Identified issues during development and proposed improvements to the website and project workflow.
+- Helped integrate team members' work to maintain consistency across the project.
+
 ## 📚 Documentation
 - [Installation Guide](Installation.md)
 - [User Manual](UserGuide.md)
