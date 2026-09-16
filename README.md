@@ -1,7 +1,9 @@
 # Where's My Pie? 🥧
-A simple and accessible lost and found system for everyone
 
-**Development Team: TreeNoPie**
+A campus lost-and-found web application developed as a five-member team project.
+
+**Development Team:** TreeNoPie  
+**My Role:** Web/UI Design & Project Coordination
 
 ## Project Overview
 
@@ -186,16 +188,18 @@ WheresMyPie/
 - Protected upload directories
 - Custom error handling
 
-## My Contribution
+## 👩‍💻 My Contribution
+
 This project was developed collaboratively by a five-member team.
 
 My primary responsibilities included:
-- Designed and refined the webpage layout and overall user interface.
-- Created and organized the project presentation materials.
-- Coordinated team progress and tracked development tasks throughout the project.
-- Assisted in assigning tasks based on project requirements and team progress.
-- Identified issues during development and proposed improvements to the website and project workflow.
-- Helped integrate team members' work to maintain consistency across the project.
+
+- Designed and refined webpage layouts and the overall user interface.
+- Coordinated project progress and tracked development tasks across the team.
+- Assisted with task allocation based on project requirements and team progress.
+- Identified usability and project issues and proposed improvement plans.
+- Reviewed the team's progress and coordinated revisions to maintain consistency across the website.
+- Created and organized the final project presentation materials.
 
 ## 📚 Documentation
 - [Installation Guide](Installation.md)
